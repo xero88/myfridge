@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934837428912",
+    "firebase_url": "https://myfridge-a8248.firebaseio.com",
+    "project_id": "myfridge-a8248",
+    "storage_bucket": "myfridge-a8248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934837428912:android:f4e056e1b60c94efa4d175",
+        "android_client_info": {
+          "package_name": "ch.xero88.myfridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934837428912-1sap2gg6drfkt42tesoi09s9fe5kdefi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.xero88.myfridge",
+            "certificate_hash": "d2912c01392a71a5194dbbc55dfaa1c5e8a63112"
+          }
+        },
+        {
+          "client_id": "934837428912-vc88kgla315eq63j27d3gfektf1kmuoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfR6njm9H2BHo_XmjTRc81yeLwgUkuHvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934837428912-vc88kgla315eq63j27d3gfektf1kmuoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
