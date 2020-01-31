@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'auth/my_auth_page.dart';
+import 'ml/ml_page.dart';
 
 
 void main() => runApp(MyApp());
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       // home: MyHomePage(title: 'Flutter Demo Home Page'),
-      home: MyAuthPage(title: 'Flutter Demo Home Page'),
+      home: MlPage(),
     );
   }
 }
